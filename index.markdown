@@ -11,7 +11,7 @@ Os participantes do curso são 11 alunos do 5o ano, matriculados na Escola Munic
 
 ## Anúncios 
 
-**Dia 19 de Agosto 2022, sexta-feira, teremos a última aula com matéria nova, a Unidade 9 - Funções e Parâmetros. Esta aula junta tudo o que aprendemos no curso, será essencial para o projeto final do curso na semana seguinte. Esperamos encontrar todos os participantes na E. M. Minas Gerais às 10:30 em ponto. Até logo!**
+**Dia 26 de Agosto 2022, sexta-feira, teremos a aula de conclusão do curso: Unidade 10 - Projeto Final. O projeto final será realizado durante a aula e contribui para a nota final do curso. Os certificados e brindes de formatura serão entregues aos alunos após a apresentação dos projetos. Esperamos encontrar todos os participantes no ponto de encontro na Escola Municipal às 10:30. Até logo!**
 
 ## Cronograma
 
