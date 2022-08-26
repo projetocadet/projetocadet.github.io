@@ -48,7 +48,7 @@ _Prof. Sidney Cunha de Lucena, dean of CCET/UNIRIO and Prof. Gladson Antunes, di
 
 _Roberto Barros of NTI UNIRIO for providing IT support._
 
-_Prof. Gustavo José Albino de Sousa, Director of Escola Municipal Minas Gerais and Prof. Susy Grossman for promoting Project CADET, selecting candidates for the class of 2022, and ongoing support.
+_Prof. Gustavo José Albino de Sousa, Director of Escola Municipal Minas Gerais and Prof. Susy Grossman for promoting Project CADET, selecting candidates for the class of 2022, and ongoing support._
 
 _Peter Brasil, Microsoft Senior Program Manager and Renata Ribeiro, Commercial Director at Alert Informática for arranging Minecraft Education Edition software licenses._
 
