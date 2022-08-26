@@ -13,3 +13,23 @@
 }
 
 h1 { font-family: "minecraft"; font-size: 30px; text-align: center }
+
+.image-caption {
+  color: #777;
+  font-size: .7rem;
+  margin-top: -18px;
+  text-align: center;
+}
+
+.gallery-class td {
+  border-bottom: 0px;
+  color: #777;
+  font-size: .7rem;
+  margin-top: -18px;
+  text-align: center;
+  width: 50%;
+}
+
+.gallery-class th {
+  border-bottom: 0px;
+}
