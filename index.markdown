@@ -51,7 +51,7 @@ _Roberto Barros do NTI UNIRIO por configurar as máquinas do laboratório de inf
 
 _Prof. Gustavo José Albino de Sousa, Diretor da Escola Municipal Minas Gerais e Prof. Susy Grossman pela divulgação, seleção de candidatos e apoio durante o curso._
 
-_Peter Brasil, Microsoft Program Manager e Renata Ribeiro, Diretora Comercial da Alert Informática por providenciar as licenças do Minecraft Education Edition._
+_Peter Brasil, Microsoft Senior Program Manager e Renata Ribeiro, Diretora Comercial da Alert Informática por providenciar as licenças do Minecraft Education Edition._
 
 
 ![](../assets/img/class.jpg)
