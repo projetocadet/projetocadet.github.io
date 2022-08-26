@@ -21,7 +21,7 @@ title: 2022
 | Renato do Nascimento Silva	         | Confirmed Participation	  | 	4.7	    |
 
 {:.grades}
-_Note: The highest grade is 10; some grades are higher than 10 due to extra credit assignments._
+_Observação: A nota máxima é 10 (40 pontos); alguns alunos tem nota maior que 10 devido aos exercícios valendo ponto extra._
 
 {:.gallery-class}
 ![](../assets/img/marialuiza.jpg)  |![](../assets/img/mariaclara.jpg)
