@@ -5,6 +5,7 @@ title: 2022
 
 ## CADET Class of 2022
 
+{:.grades}
 | Name	      			                      | Category 		               | Grade  	 |
 |-------------------------------------|---------------------------|----------|
 | Amora Papi de Azevedo	 	            | Approved with Distinction | 	10.1	   |
@@ -18,6 +19,9 @@ title: 2022
 | Maria Luiza Claudino dos Santos     | Approved with Distinction | 		11.1   |
 | Myrella Luiza Campina Xavier	       | Approved		                | 	7.7	    |
 | Renato do Nascimento Silva	         | Confirmed Participation	  | 	4.7	    |
+
+{:.grades}
+_Note: The highest grade is 10; some grades are higher than 10 due to extra credit assignments._
 
 {: .gallery-class}
 ![](../assets/img/marialuiza.jpg)  |![](../assets/img/mariaclara.jpg)
@@ -35,6 +39,3 @@ Gabriel                            |Karina
 ![](../assets/img/renato.jpg)      |![](../assets/img/logo.jpg)
 :---------------------------------:|:---------------------------------:
 Renato                             |  
-
-
-_Note: The highest grade is 10; some grades are higher than 10 due to extra credit assignments._
