@@ -1,4 +1,11 @@
-O projeto CADET é uma iniciativa de dois irmãos cariocas, Juliana e Davi Leal Louback. O objetivo é incentivar estudantes da Rede Municipal de Ensino do Rio de Janeiro a aprender sobre programação de computadores. Juliana e Davi tiveram o primeiro contato com a computação na faculdade; são ex-aluna e aluno de universidades federais no Rio de Janeiro (UNIRIO e CEFET). Há pesquisas demonstrando que o aprendizado pode começar muito mais cedo, durante a educação fundamental. Junto com suas irmãs, Ana Natali e Larissa, também estudantes de exatas na UNIRIO, criaram um curso de introdução à programação usando a Microsoft MakeCode for Minecraft. O currículo da Microsoft MakeCode  tem uma abordagem divertida e acessível, desenvolvida por um conjunto de profissionais de educação e tecnologia.
+---
+layout: default
+title: Inicio
+---
+
+O Projeto CADET é uma iniciativa de dois irmãos cariocas, Juliana e Davi Leal Louback. O objetivo é incentivar estudantes da Rede Municipal de Ensino do Rio de Janeiro a aprender sobre programação de computadores. Juliana e Davi tiveram o primeiro contato com a computação na faculdade; são ex-aluna e aluno de universidades federais no Rio de Janeiro (UNIRIO e CEFET). Há pesquisas demonstrando o benefífico de começar o aprendizado muito mais cedo, durante a educação fundamental.
+
+Infelizmente, no Brasil a maioria das escolas de ensino fundamental da rede pública não tem laboratórios de informática, dificultando incorporar a Ciência da Computação no currículo. Graças à parceria com a UNIRIO-CCET, o Projeto CADET obteve acesso à um laboratório de informática para a edição inaugural. Junto com suas irmãs, Ana Natali e Larissa, também estudantes de exatas na UNIRIO, criaram um curso de introdução à programação usando a _Microsoft MakeCode for Minecraft_. O currículo da _Microsoft MakeCode_ tem uma abordagem divertida e acessível, desenvolvida por um conjunto de profissionais de educação e tecnologia.
 Os participantes do curso são 11 alunos do 5o ano, matriculados na Escola Municipal Minas Gerais. O curso é composto por uma aula semanal durante 10 semanas, abordando os seguintes temas:
 
 * Eventos
@@ -9,9 +16,11 @@ Os participantes do curso são 11 alunos do 5o ano, matriculados na Escola Munic
 * Funções e Parâmetros
 * Vetores
 
-## Anúncios 
+![group](../assets/img/group.jpg)
 
-**Dia 26 de Agosto 2022, sexta-feira, teremos a aula de conclusão do curso: Unidade 10 - Projeto Final. O projeto final será realizado durante a aula e contribui para a nota final do curso. Os certificados e brindes de formatura serão entregues aos alunos após a apresentação dos projetos. Esperamos encontrar todos os participantes no ponto de encontro na Escola Municipal às 10:30. Até logo!**
+{:.image-caption}
+Davi, Juliana e a Turma de 2022 - 26/08/2022
+
 
 ## Cronograma
 
@@ -45,6 +54,3 @@ _Peter Brasil, Microsoft Program Manager e Renata Ribeiro, Diretora Comercial da
 
 
 ![](../assets/img/class.jpg)
-
-
-
