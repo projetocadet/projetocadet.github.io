@@ -53,5 +53,7 @@ _Prof. Gustavo José Albino de Sousa, Diretor da Escola Municipal Minas Gerais e
 
 _Peter Brasil, Microsoft Senior Program Manager e Renata Ribeiro, Diretora Comercial da Alert Informática por providenciar as licenças do Minecraft Education Edition._
 
+_Gemini Trust LLC por contribuir aos brindes de formatura e apoiar a participação da Juliana Louback como coordenadora._
+
 
 ![](../assets/img/class.jpg)
