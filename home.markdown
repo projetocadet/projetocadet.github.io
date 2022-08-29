@@ -52,6 +52,8 @@ _Prof. Gustavo José Albino de Sousa, Director of Escola Municipal Minas Gerais 
 
 _Peter Brasil, Microsoft Senior Program Manager and Renata Ribeiro, Commercial Director at Alert Informática for arranging Minecraft Education Edition software licenses._
 
+_Gemini Trust LLC for contributing to the graduation gift bags and enabling Juliana Louback’s participation as program coordinator._
+
 
 ![](../assets/img/class.jpg)
 
