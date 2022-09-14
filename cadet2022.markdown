@@ -24,12 +24,15 @@ title: 2022
 _Observação: A nota máxima é 10 (40 pontos); alguns alunos tem nota maior que 10 devido aos exercícios valendo ponto extra._
 
 {:.gallery-class}
-![](../assets/img/marialuiza.jpg)  |![](../assets/img/mariaclara.jpg)
+![](../assets/img/marialuiza.jpg)  |![](../assets/img/guilherme.jpg)
 :---------------------------------:|:---------------------------------:
-Maria Luiza                        |Maria Clara
-![](../assets/img/guilherme.jpg)   |![](../assets/img/joao.jpg)
+Maria Luiza                        |Guilherme
+![](../assets/img/amora.jpg)  	   |![](../assets/img/mariaclara.jpg)
 :---------------------------------:|:---------------------------------:
-Guilherme                          |João Filipi
+Amora                              |Maria Clara
+![](../assets/img/lucas.jpg)  	   |![](../assets/img/joao.jpg)
+:---------------------------------:|:---------------------------------:
+Lucas                              |João Filipi
 ![](../assets/img/kaua.jpg)        |![](../assets/img/myrella.jpg)
 :---------------------------------:|:---------------------------------:
 Kauã                               |Myrella
@@ -38,4 +41,4 @@ Kauã                               |Myrella
 Gabriel                            |Karina
 ![](../assets/img/renato.jpg)      |![](../assets/img/logo.jpg)
 :---------------------------------:|:---------------------------------:
-Renato                             |
+Renato    
