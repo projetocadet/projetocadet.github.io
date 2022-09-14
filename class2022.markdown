@@ -24,12 +24,15 @@ title: 2022
 _Note: The highest grade is 10; some grades are higher than 10 due to extra credit assignments._
 
 {: .gallery-class}
-![](../assets/img/marialuiza.jpg)  |![](../assets/img/mariaclara.jpg)
+![](../assets/img/marialuiza.jpg)  |![](../assets/img/guilherme.jpg)
 :---------------------------------:|:---------------------------------:
-Maria Luiza                        |Maria Clara
-![](../assets/img/guilherme.jpg)   |![](../assets/img/joao.jpg)
+Maria Luiza                        |Guilherme
+![](../assets/img/amora.jpg)  	   |![](../assets/img/mariaclara.jpg)
 :---------------------------------:|:---------------------------------:
-Guilherme                          |João Filipi
+Amora                              |Maria Clara
+![](../assets/img/lucas.jpg)  	   |![](../assets/img/joao.jpg)
+:---------------------------------:|:---------------------------------:
+Lucas                              |João Filipi
 ![](../assets/img/kaua.jpg)        |![](../assets/img/myrella.jpg)
 :---------------------------------:|:---------------------------------:
 Kauã                               |Myrella
