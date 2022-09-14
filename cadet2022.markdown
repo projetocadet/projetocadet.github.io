@@ -41,4 +41,4 @@ Kauã                               |Myrella
 Gabriel                            |Karina
 ![](../assets/img/renato.jpg)      |![](../assets/img/logo.jpg)
 :---------------------------------:|:---------------------------------:
-Renato    
+Renato                             |
